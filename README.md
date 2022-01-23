@@ -1,5 +1,4 @@
-# SENPROJECT
-Development Of a Banking Web Application
+# Development Of a Banking Web Application
 
 step 1:
 upload the files to www of your wamp64 folder
