@@ -1,10 +1,11 @@
 # Development Of a Banking Web Application
+1. Download the Zip file
+2. Extract the file and copy banking folder
+3. Paste inside root directory (for wamp,xamp,lamp)
+4. Open PHPmyAdmin
+5. Create a database and name it chelsea
+6. Import the chelsea.sql file(given inside the zip package in the sql folder)
+7. run the script (frontend)
 
-step 1:
-upload the files to www of your wamp64 folder
-
-step 2:
-create a database called chelsea and upload the sql file to the database
-
-step 3:
-open the database and it is ready to use
+Login Details
+Login Details for User: chelsea password: 123123
