@@ -9,3 +9,5 @@
 
 Login Details
 Login Details for User: chelsea password: 123123
+
+# Note: The website http://chelseabank.a0001.net/ isn't backend integrated due to error with hosting provider
